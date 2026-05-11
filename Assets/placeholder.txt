@@ -1,1 +1,1 @@
-
+Visual assets for the README will be stored here
