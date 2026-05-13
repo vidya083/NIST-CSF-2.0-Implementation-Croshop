@@ -21,3 +21,7 @@ I architected a **User Access Management Policy** aligned with NIST PR.AA and GV
 * **Framework:** NIST CSF 2.0
 * **Documentation:** Markdown, Microsoft Word (PDF Export)
 * **Analysis:** Excel (Risk Weighting & Asset Tagging)
+  
+## Milestone 3: Protect & Assess (PR)
+I conducted a **Gap Assessment** to evaluate Croshop’s current security maturity against NIST CSF 2.0 standards. This phase focused on identifying high-risk areas in Identity Management (PR.AA) and Data Security (PR.DS).
+> [View Step 3 Detailed PDF](./Project-Documentation/Step-3-Gap-Assessment.pdf)
