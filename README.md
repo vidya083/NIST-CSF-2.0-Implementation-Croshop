@@ -26,6 +26,7 @@ I architected a **User Access Management Policy** aligned with NIST PR.AA and GV
 I conducted a **Gap Assessment** to evaluate Croshop’s current security maturity against NIST CSF 2.0 standards. This phase focused on identifying high-risk areas in Identity Management (PR.AA) and Data Security (PR.DS).
 > [View Step 3 Detailed PDF](./Project-Documentation/Step-3-Gap-Assessment.pdf)
 
-### 🚨 Milestone 4: Respond & Recover (RS/RC)
+## Milestone 4: Respond & Recover (RS/RC)
 Developed a functional **Incident Response "Quick-Action" Guide**. This emergency flipbook ensures the team can contain threats and restore operations within 4 hours of a breach.
 > [View Step 4: Incident Response Guide](./Project-Documentation/Step-4-Incident-Response-Guide.pdf)
+
